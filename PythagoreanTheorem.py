@@ -3,7 +3,6 @@ import math
 
 class Pythagorean:
     
-
     def side_c(side_a,side_b):
         answer = math.sqrt((side_a*side_a)+(side_b*side_b))
         print("Answer: sqrt("+ str(side_a) + " * " + str(side_a) + ") + (" +str(side_b) + " * " + str(side_b)+") = " +str(answer) + "      |")
@@ -82,7 +81,6 @@ class CHOICE(Pythagorean):
                 print("| PUT a Number not a LETTER or SYMBOL           |")
                 print(" ===================================================")
                 print()
-    #end def
                 
 pytho = Pythagorean()
 pytho.pythagoreanMENU
