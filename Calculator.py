@@ -1,5 +1,6 @@
 
 class Calculator:
+    
     def add(a, b):
         answer = a + b
         print("| Answer: "+ str(a) + " + " + str( b) + " = " + str(answer)+"     |")

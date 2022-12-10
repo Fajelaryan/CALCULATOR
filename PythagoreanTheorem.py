@@ -3,23 +3,23 @@ import math
 
 class Pythagorean:
     
-    def side_c(side_a,side_b):
+    def side_c(self,side_a,side_b):
         answer = math.sqrt((side_a*side_a)+(side_b*side_b))
         print("Answer: sqrt("+ str(side_a) + " * " + str(side_a) + ") + (" +str(side_b) + " * " + str(side_b)+") = " +str(answer) + "      |")
     # end def
 
-    def side_a(hypo_c, side_b):
+    def side_a(self,hypo_c, side_b):
         answer = math.sqrt((hypo_c * hypo_c) - (side_b * side_b))
         print("Answer: sqrt("+ str(hypo_c) + " * " + str(hypo_c) + ") - (" +str(side_b) + " * " + str(side_b)+") = " +str(answer) + "      |")
         
     # end def
 
-    def side_b(hypo_c,side_a):
+    def side_b(self,hypo_c,side_a):
         answer = math.sqrt((hypo_c * hypo_c - side_a * side_a))
         print("Answer: sqrt("+ str(hypo_c) + " * " + str(hypo_c) + ") - (" +str(side_a) + " * " + str(side_a)+") = " +str(answer) + "      |")
         
     # end def
-    def pythagoreanMENU(): 
+    def pythagoreanMENU(self): 
         while True:
             print(" ")
             print("==============================================================================================")
