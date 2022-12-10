@@ -24,9 +24,20 @@ class MAIN:
                 elif choice == 2:
                     print(" ")
                     pytha.Pythagorean.pythagoreanMENU()
+                
                 elif choice == 3:
                     exit()
-                    
+                else:
+                    try:
+                        print(" ========================================")
+                        print("|       PUT A CORRECT CHOICE NUMBER     |")
+                        print(" ========================================")
+                    except ValueError as err:
+                        print(" ===================================================")
+                        print("| "+ str(err) +" |")
+                        print("| PUT a Number not a LETTER or SYMBOL           |")
+                        print(" ===================================================")
+                        
         except ValueError as err:
             print(" ===================================================")
             print("| "+ str(err) +" |")
