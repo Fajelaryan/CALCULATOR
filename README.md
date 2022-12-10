@@ -11,3 +11,4 @@ Pythagoras theorem states that “In a right-angled triangle, the square of the 
 - [@Fajelaryan]https://github.com/Fajelaryan
 - [@frueldaethel]https://github.com/frueldaethel
 - [@FruitJess04]https://github.com/FruitJess04
+- [@Johnlord01]https://github.com/Johnlord01
