@@ -17,4 +17,4 @@ This project is used to performed a calculation :
 ![image](https://user-images.githubusercontent.com/113867832/206728466-cc5eb5da-8a42-4788-883a-87b254c958b0.PNG)
 
 ## SCREEN SHOT
-![screenshot](https://github.com/Fajelaryan/CALCULATOR-s/blob/main/ScreenShot.pdf)
+![App Screenshot](https://github.com/Fajelaryan/CALCULATOR-s/blob/main/ScreenShot.pdf)
