@@ -17,4 +17,14 @@ This project is used to performed a calculation :
 ![image](https://user-images.githubusercontent.com/113867832/206728466-cc5eb5da-8a42-4788-883a-87b254c958b0.PNG)
 
 ## SCREEN SHOT
-![Slide1](ScreenShot/Slide1.PNG)(ScreenShot/Slide2.PNG)
+![Slide1](ScreenShot/Slide1.PNG)
+![Slide2](ScreenShot/Slide2.PNG)
+![Slide3](ScreenShot/Slide3.PNG)
+![Slide4](ScreenShot/Slide4.PNG)
+![Slide5](ScreenShot/Slide5.PNG)
+![Slide6](ScreenShot/Slide6.PNG)
+![Slide7](ScreenShot/Slide7.PNG)
+![Slide8](ScreenShot/Slide8.PNG)
+![Slide9](ScreenShot/Slide9.PNG)
+![Slide10](ScreenShot/Slide10.PNG)
+
