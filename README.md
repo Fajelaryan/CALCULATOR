@@ -26,5 +26,14 @@ This project is used to performed a calculation :
 ![Slide7](ScreenShot/Slide7.PNG)
 ![Slide8](ScreenShot/Slide8.PNG)
 ![Slide9](ScreenShot/Slide9.PNG)
-![Slide10](ScreenShot/Slide10.PNG)
+
+
+## Authors
+
+- [Fajelaryan](https://github.com/Fajelaryan)
+- [@FruitJess04](https://github.com/FruitJess04)
+- [@frueldaethel](https://github.com/frueldaethel)
+- [@Johnlord01](https://github.com/Johnlord01)
+
+
 
