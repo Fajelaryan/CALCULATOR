@@ -33,7 +33,7 @@ This project is used to performed a calculation :
 - [@Fajelaryan](https://github.com/Fajelaryan)
 - [@FruitJess04](https://github.com/FruitJess04)
 - [@frueldaethel](https://github.com/frueldaethel)
-- [@Johnlord01](https://github.com/Johnlord01)update
+- [@Johnlord01](https://github.com/Johnlord01)
 
 
 
