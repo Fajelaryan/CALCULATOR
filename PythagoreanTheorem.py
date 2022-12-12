@@ -15,7 +15,7 @@ class Pythagorean:
     # end def
 
     def side_b(hypo_c,side_a):
-        answer = math.sqrt((hypo_c * hypo_c - side_a * side_a))
+        answer = math.sqrt((hypo_c * hypo_c) - (side_a * side_a))
         print("Answer: sqrt("+ str(hypo_c) + " * " + str(hypo_c) + ") - (" +str(side_a) + " * " + str(side_a)+") = " +str(answer) + "      |")
         
     # end def

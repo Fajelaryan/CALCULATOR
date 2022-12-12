@@ -13,10 +13,10 @@ class MAIN:
             print("\t1. CALCULATOR")
             print("\t2. Pythagorean Theorem Calculator")
             print("\t3. EXIT")
-            MAIN.choice(self)
+            MAIN.choice()
         
     
-    def choice(self):
+    def choice():
         try:
                 choice = int(input("===>"))
                 if choice == 1:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
