@@ -5,6 +5,7 @@ import PythagoreanTheorem as pytha
 class MAIN:
     
     def mainMENU(self):
+        while True:
             print("================================")
             print("=       CUMPUTE TO PASS        =")
             print("=        In Basic Math         =")
