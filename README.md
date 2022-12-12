@@ -16,6 +16,9 @@ This project is used to performed a calculation :
 ##  Unified Modeling Language (UML)
 ![image](https://user-images.githubusercontent.com/113867832/206728466-cc5eb5da-8a42-4788-883a-87b254c958b0.PNG)
 
+## DEMO
+https://youtu.be/ZM6b9JTH0BA
+
 ## SCREEN SHOT
 ![Slide1](ScreenShot/Slide1.PNG)
 ![Slide2](ScreenShot/Slide2.PNG)
@@ -26,9 +29,6 @@ This project is used to performed a calculation :
 ![Slide7](ScreenShot/Slide7.PNG)
 ![Slide8](ScreenShot/Slide8.PNG)
 ![Slide9](ScreenShot/Slide9.PNG)
-
-## DEMO
-https://youtu.be/ZM6b9JTH0BA
 
 
 ## Authors
